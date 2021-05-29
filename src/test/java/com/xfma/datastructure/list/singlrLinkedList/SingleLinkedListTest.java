@@ -1,6 +1,5 @@
 package com.xfma.datastructure.list.singlrLinkedList;
 
-import com.alibaba.fastjson.JSONObject;
 import com.xfma.datastructure.list.singleLinkedList.CustomLinkedList;
 import org.junit.jupiter.api.Test;
 
