@@ -10,8 +10,6 @@ import java.util.Objects;
  */
 public class Node<E> implements Serializable {
 
-
-
     /**
      * 数据
      */
