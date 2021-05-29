@@ -204,4 +204,12 @@ public class CustomLinkedList<E> implements Serializable {
         this.last = last;
     }
 
+    @Override
+    public String toString() {
+        return "CustomLinkedList{" +
+                "head=" + head +
+                ", last=" + last +
+                ", size=" + size +
+                '}';
+    }
 }

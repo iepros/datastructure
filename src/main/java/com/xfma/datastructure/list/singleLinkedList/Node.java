@@ -62,4 +62,12 @@ public class Node<E> implements Serializable {
     public int hashCode() {
         return Objects.hash(getE(), getNext());
     }
+
+    @Override
+    public String toString() {
+        return "Node{" +
+                "e=" + e +
+                ", next=" + next +
+                '}';
+    }
 }
