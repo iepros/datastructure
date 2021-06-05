@@ -20,7 +20,6 @@ public class Node<E> implements Serializable {
      */
     private Node<E> next;
 
-
     public Node() {
     }
 
